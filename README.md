@@ -47,8 +47,10 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![output](https://user-images.githubusercontent.com/119875375/275326086-33b86bce-a7a4-49e5-94a2-194259de196e.png)
+
+### Name: Kamalesh SV
+### Register Number: 212222240041
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
